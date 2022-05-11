@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hotfix4");
         System.out.println("2022.5.9");
         System.out.println("mast");
+        System.out.println("github update");
     }
 }
