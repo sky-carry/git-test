@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("2022.5.9");
         System.out.println("mast");
         System.out.println("github update");
+        System.out.println("githab update2");
     }
 }
